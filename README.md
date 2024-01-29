@@ -1,4 +1,4 @@
-# Chai Aut Code Python Learning Repository
+# Chai Aur Code Python Learning Repository
 
 ## Overview
 
